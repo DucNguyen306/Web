@@ -1,0 +1,32 @@
+.kenh14-toolbar-wrapper {
+    background: #111;
+    height: 25px;
+    position: relative;
+    z-index: 1;
+    outline: 0;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font: inherit;
+    vertical-align: baseline;
+}
+.w1040 {
+    width: 1040px;
+    margin: 0 auto;
+    outline: 0;
+    padding: 0;
+    border: 0;
+    font: inherit;
+    vertical-align: baseline;
+}
+.fl {
+    float: left;
+}
+.k14ti {
+    display: inline-block;
+}
+.toolbar-search-wrapper {
+    height: 25px;
+    border-left: 1px solid rgba(255,255,255,.1);
+    border-right: 1px solid rgba(255,255,255,.1);
+}
